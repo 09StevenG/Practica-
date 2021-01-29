@@ -9,12 +9,7 @@ Los datos provenientes de técnica no son generalizables, pero este no era el ob
 Robert K.Merton y su propulsor más importante Lazarsfeld, la intención era descubrir las
 tendencias de opinión sobre hechos que estaban ocurriendo en la vida cotidiana y cómo ellos
 afectan al mundo de vida de las personas.
-Algunas condiciones básicas para explicar un grupo focal:
-+Colectivo
-+Interactivo
-+Informal
-+Experiencias subjetivas 
-+Información verbal 
+Algunas condiciones básicas para explicar un grupo focal:+Colectivo+Interactivo+Informal+Experiencias subjetivas+Información verbal 
 >El grupo focal es un tipo de entrevista grupal que puede calificarse de semiabierto
 >o semi-estructurado, por cuanto, si bien las personas pueden hablar
 >libremente, deben hacerlo sobre un tema que ellas no han elegido, pero sobre el
