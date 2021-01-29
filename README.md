@@ -1,5 +1,5 @@
 # El grupo focal: Trabajo Práctico 
-## Universidad de Costa Rica 
+## Universidad de Costa Rica ![](https://github.com/09StevenG/Practica-/commit/3e678161ee235f902b437611fb792bcce2eba023) 
 ### Facultad de Ciencias Sociales
 #### Escuela de Geografía
 ##### Estudiante: Steven Guilén Rivera 
