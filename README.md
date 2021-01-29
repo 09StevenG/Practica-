@@ -1,2 +1,2 @@
 # Practica-
-*Una forma de vida 
+*Una forma de vida*
