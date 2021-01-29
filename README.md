@@ -42,7 +42,7 @@ normativas y concepciones específicas que pueden unificar o reprimir las opinio
 Pero al mismo tiempo se deben presentar algunas semejanzas entre las personas seleccionadas,
 buscando cierta homogeneidad intra-grupal e identificación en los participantes.
 Montero (2013) denomina **criterio de reflejo** al modo para constituir los grupos focales con un
-rigor metodológico cualitativo. Destaca el método [Muestreo bolade nieve](https://www.netquest.com/blog/es/blog/es/muestreo-bola-nieve) para la
+rigor metodológico cualitativo. Destaca el método [Muestreo bola de nieve](https://www.netquest.com/blog/es/blog/es/muestreo-bola-nieve) para la 
 conformación del grupo, pero comenta la posibilidad que algunas personas se conozcan y lo
 califica como un inconveniente. Comenta la necesidad de lograr un **consentimiento informado**
 donde la persona conozca con claridad el tipo de grupo, cuánto dura la actividad, el objetivo y
@@ -58,7 +58,7 @@ el uso de verbos como debatir, discutir, reflexionar para enfatizar que se trata
 
 >Quien modera cumple una función central en el grupo focal, por ello mismo no puede mostrar
 >sus predilecciones o tendencias y mucho menos tratar de guiar la conversación hacia los aspectos
->que considera como correctos, adecuados, útiles o convenientes” (Montero, 2013, p.68).
+>que considera como correctos, adecuados, útiles o convenientes (Montero, 2013, p.68).
 
 El registro de la conducta no verbal puede arrojar información valiosa, así como los silencios
 dentro de la conversación, por ello Montero enfatiza en la necesidad de que exista una persona
@@ -67,7 +67,7 @@ para luego analizar con detalle estos elementos.
 Sobresalen dos tipos de enfoques para abordar la investigación cuando se habla de un grupo focal,
 **el exploratorio** 
 >permite investigar áreas relativamente desconocidas, obtener conocimiento que facilite realizar otras investigaciones, adoptar medidas relativas a cambios o mejoras, o conocer
->las intenciones, disposiciones, preferencias e intereses de las personas en relación con dicha área o situación” (Montero, 2017, p.108).
+>las intenciones, disposiciones, preferencias e intereses de las personas en relación con dicha área o situación (Montero, 2017, p.108).
 
 Por su parte **el fenomenológico** consiste en utilizar los grupos focales para comprender, desde la perspectiva del sentido común, del uso diario de la gente, algún fenómeno o aspecto a investigar.
 >La diferencia con el exploratorio es que en este caso quienes investigan tienen
@@ -81,7 +81,8 @@ Depende del tipo de investigación que se desea realizar y la información que r
 para la persona investigadora donde la intervención del moderador con preguntas guías
 permitirá que los participantes marquen el camino de la discusión dentro del grupo focal.
 
-![]()
+![](https://conceptodefinicion.de/wp-content/uploads/2018/02/Grupos_Focales-.jpg)
+
 
 
 
