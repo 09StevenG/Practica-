@@ -83,6 +83,8 @@ permitirá que los participantes marquen el camino de la discusión dentro del g
 
 ![](https://conceptodefinicion.de/wp-content/uploads/2018/02/Grupos_Focales-.jpg)
 
-
+Recursos
+Montero, M. (2013). _Grupos Focales_. (recurso electrónico). Bogotá: California Edit. Lecturas y
+rutas introductorias. Recuperado de:[]( https://california-edit.com/libro/grupos-focales/)
 
 
