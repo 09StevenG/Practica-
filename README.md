@@ -10,12 +10,12 @@ Robert K.Merton y su propulsor más importante Lazarsfeld, la intención era des
 tendencias de opinión sobre hechos que estaban ocurriendo en la vida cotidiana y cómo ellos
 afectan al mundo de vida de las personas.
 Algunas condiciones básicas para explicar un grupo focal:
-_Una forma de entrevista de carácter colectivo
-_Es interactiva, las personas participantes discuten opiniones, sentimientos,
+-Una forma de entrevista de carácter colectivo
+-Es interactiva, las personas participantes discuten opiniones, sentimientos,
 conocimientos, anécdotas acerca de un tema seleccionado previamente.
-_El ámbito es informal, permisivo, no amenazador, distendido.
-_Su centro de atención reside en las experiencias subjetivas de las personas participantes.
-_El resultado básico de un grupo focal es la transcripción de la discusión habida en él, la
+-El ámbito es informal, permisivo, no amenazador, distendido.
+-Su centro de atención reside en las experiencias subjetivas de las personas participantes.
+-El resultado básico de un grupo focal es la transcripción de la discusión habida en él, la
 cual contiene información verbal sobre esas experiencias subjetivas, opiniones y
 conocimiento manifestado por las personas participantes.
 >El grupo focal es un tipo de entrevista grupal que puede calificarse de semiabierto
