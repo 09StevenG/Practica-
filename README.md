@@ -1,4 +1,10 @@
-# El grupo focal
+# El grupo focal: Trabajo Práctico 
+## Universidad de Costa Rica 
+### Facultad de Ciencias Sociales
+#### Escuela de Geografía
+##### Estudiante: Steven Guilén Rivera 
+##### Métodos y técnicas cualitativos GF0608
+###### Prof. Lic. Anthony Sibaja Solís
 Con respecto a los grupos focales, Montero (2013) comenta que existe una combinación de
 aspectos provenientes de la teoría y dinámica de grupos, de la entrevista, y el estudio del discurso.
 Centrando su enfoque en una forma de conversación-discusión.
