@@ -14,14 +14,21 @@ afectan al mundo de vida de las personas.
 Algunas condiciones básicas para explicar un grupo focal:
 - Colectivo
 - Interactivo
-- Informal
-- Subjetivo
-- Verbal
+- Espacio informal
+- Experiencias subjetivas
+- Información verbal
 
 >El grupo focal es un tipo de entrevista grupal que puede calificarse de semiabierto
 >o semi-estructurado, por cuanto, si bien las personas pueden hablar
 >libremente, deben hacerlo sobre un tema que ellas no han elegido, pero sobre el
 >cual han aceptado discutir. (Montero, 2013, p.20).
 
+Los grupos focales se constituyen como una técnica de investigación cualitativa, primordialmente
+aplicados a las ciencias sociales, igualmente se han implementado en otras áreas como la
+investigación de mercado.
+Es importamte distinguir las diferencias que dislumbran los grupos focales con otras teorías y técnicas de investigación social como la entrevista y sus múltiples formas; **focalizada, participativa e individual**.
+Para ir en busca del objetivo planteados, Montero (2013) se refiere a la importancia del conocimiento de la persona investigadora y su entendimiento en dinámica de grupo pues toda participación genera información trascendental para lainvestigación.
+Para la organización y composición del grupo focal, se debe partir de los objetivos de la investigación determinados de manera muy clara, considerando la cantidad de grupos que se pretenden conformar, sus características y el tamaño. 
+>“El tamaño ideal de un grupo focal oscila entre siete y once miembros” (Montero,2013, p.40).
 
 
