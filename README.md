@@ -12,11 +12,11 @@ afectan al mundo de vida de las personas.
 
 Algunas condiciones básicas para explicar un grupo focal:
 
--Colectivo
--Interactivo
--Informal
--Experiencias subjetivas 
--Información verbal 
+1.Colectivo
+2.Interactivo
+3.Informal
+4.Experiencias subjetivas 
+5.Información verbal 
 
 >El grupo focal es un tipo de entrevista grupal que puede calificarse de semiabierto
 >o semi-estructurado, por cuanto, si bien las personas pueden hablar
